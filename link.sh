@@ -6,7 +6,7 @@ h
 
 dir=`pwd`
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="bashrc vimrc vim zshrc oh-my-zsh"    # list of files/folders to symlink in homedir
+files="bash_profile vimrc vim zshrc oh-my-zsh"    # list of files/folders to symlink in homedir
 
 ##########
 
